@@ -1,6 +1,4 @@
 # Aimers_6-
-## 임신 성공 여부 예측 모델 개발
-
 # 🍼 IVF Pregnancy Prediction Model
 
 ---
@@ -41,10 +39,7 @@
 
 ---
 
-## 📂 폴더 구성
+"C:\Users\chaey\OneDrive\바탕화~1-DESKTOP-8SDTO7R-421343\2025\Aimers\LG AI.pdf"
 
-```plaintext
-├── data/                  # 데이터셋
-├── notebooks/             # EDA 및 모델링 노트북
-├── models/                # 학습된 모델 및 결과
-├── README.md              # 프로젝트 설명
+
+
