@@ -39,7 +39,6 @@
 
 ---
 
-"C:\Users\chaey\OneDrive\바탕화~1-DESKTOP-8SDTO7R-421343\2025\Aimers\LG AI.pdf"
 
 
 
