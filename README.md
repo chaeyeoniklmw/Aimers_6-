@@ -27,7 +27,7 @@
 - **최종 Private Score**: 0.7414
 - **Public Leaderboard**: 130등
 - **Final Private Leaderboard**: ⭐ 112등 (상위 15%)
-- 본선 진출에는 아쉽게 실패했지만, 전체 참가자 중 상위권 성적을 기록했습니다.
+- 본선 진출 실패, 상위 15%
 
 ---
 
