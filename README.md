@@ -1,4 +1,3 @@
-# Aimers_6-
 # 🍼 IVF Pregnancy Prediction Model
 
 ---
