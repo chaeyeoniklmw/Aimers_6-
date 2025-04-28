@@ -26,7 +26,7 @@
 
 - **최종 Private Score**: 0.7414
 - **Public Leaderboard**: 130등
-- **Final Private Leaderboard**: ⭐ 112등 (상위 15%)
+- **Final Private Leaderboard**: ⭐ 112등
 - 본선 진출 실패, 상위 15%
 
 ---
